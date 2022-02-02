@@ -20,12 +20,6 @@ UofT students may access this the collection of programming problems with the [U
 
 > https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw3&branch=main&urlpath=/lab/tree/sta410hw3
 
-- ***Do not*** access this assignment through https://jupyter.utoronto.ca ***unless*** you ***first log out*** and ***then log back in*** with Jupyter**Lab**, i.e., 
-
-||||
-|-|-|-|
-|![](zzQ6wYzvBehzQgQ7.png)|![](zzQ6wYzvBehzQgQ7.png)|![](zzQ6wYzvBehzQgQ7.png)|
-
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
 If for some reason Jupyter***Lab*** is not loading the repository, you can delete and reload repositories (after downloading and saving your work).  
 
