@@ -3,27 +3,29 @@
 Return to STA410 Programming Portfolio Parent Repository [here](https://github.com/pointOfive/STA410_HW/blob/master/README.md#uoft-sta4102102-statistical-computation).
 
 ## Submitting Programming Portfolio Assignment 3
-Submit `.ipynb` file to [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before the end of the calendar day (EoD) on the due date.
+Submit `sta410hw3.ipynb` on [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before the end of the calendar day (EoD) on the due date.
 
 ## Programming Portfolio Assignment 3
 
 [Programming Portfolio Assignment 3](sta410hw3.ipynb) addresses optimization with a particular focus on Newton's Method
 and TensorFlow for Gradient and Hessian (Jacobian) computations.
 
-1. Root-finding with Newton-Raphson and Fixed-Point iteration and accelleration
+1. Root-finding with Newton-Raphson and fixed-point iteration and acceleration
 2. Iteratively reweighted least squares for fitting logistic regression models
 3. Nonlinear Gauss-Seidel using TensorFlow for partial derivative calculations 
-4. Newton's method using TensorFlow for arbitrary dimension gradient and Hessian computations
+4. Newton's method for arbitrary dimension gradients/Hessians with TensorFlow
 
 ### Accessing Programming Portfolio Assignment 3
-UofT students may access this the collection of programming problems with the [UofT Jupyter**Hub**](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw3&branch=main&urlpath=/lab/tree/sta410hw3) via
+UofT students may access this the collection of programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw3&branch=main) or [UofT JupyterLab](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw3&branch=main&urlpath=/lab/tree/sta410hw3) via
 
-> https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw3&branch=main&urlpath=/lab/tree/sta410hw3
+> [JupyterHub] https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw3&branch=main
+>
+> [JupyterLab] https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw3&branch=main&urlpath=/lab/tree/sta410hw3
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
-If for some reason Jupyter***Lab*** is not loading the repository, you can delete and reload repositories (after downloading and saving your work).  
+If for some reason JupyterHub/Lab is not loading the repository, you can delete and reload repositories (after downloading and saving your work).  
 
-> From JupyterHub or JupyterLab, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
+> From JupyterHub/Lab, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
 
 Alternatively, the programming problems may also be accessed without UofT authentication using [Google Colab](https://colab.research.google.com) via
 
