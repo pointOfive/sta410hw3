@@ -33,8 +33,8 @@ Alternatively, the programming problems may also be accessed without UofT authen
 
 ***If you're working in some other environment, 
 the versioning there must support [notebook format 4.5](https://github.com/jupyterlab/jupyterlab/issues/9729), e.g., 
-[JupyterLab](https://jupyter.org/install) version 
-[3.0.13 or greater](https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.13); 
+[JupyterLab >= 3.0.13](https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.13) (for "JupyterLab UI")
+or [Jupyter Notebook >= 6.2](https://jupyter-notebook.readthedocs.io/en/stable/changelog.html#changelog) (for "Jupyter classic UI"); 
 otherwise, your notebook cell-ids will not be supported and you will not get any credit for your submitted work.***
 
 > You may check if cell ids are present or changing at each save with `! grep '"id":' <path/to/notebook>.ipynb`
